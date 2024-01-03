@@ -1,7 +1,7 @@
 # PYRAMIDKA
 
 
-![Alt text](pics/render.jpg)
+![Render](pics/render.jpg)
 
 This keyboard is based on [VOID40](https://github.com/victorlucachi/void40).
 
@@ -16,7 +16,10 @@ Dont overtighten the screws as the posts could break off and the threads might g
 The pyramid has a uniform stagger, each row is shifted by 1/2u. This keyboard uses the most common keycaps: alpha + R1 4x1.25U + R1 4x1U.
 
 # Firmware
-![Alt text](pics/kle.jpg)
+
+[My ZMK config](https://github.com/aroum/zmk-pyramidka)
+
+![KLE](pics/kle.jpg)
 
 # Bill Of Materials
 
